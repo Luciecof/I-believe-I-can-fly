@@ -1,0 +1,18 @@
+.button{
+	background-color: #51777C;
+	color : #FFFFFF;
+	font-family: 'oxygen', sans-serif;
+	font-size: 18px;
+	font-weight: lighter;
+	letter-spacing: 14%;
+	text-decoration: none;
+	padding: 6px 36px;
+	border-radius: 30px;
+	display: inline-block;
+	border: 2px solid #51777C;
+}
+
+a:hover {
+	color: #51777C;
+	background-color: #FFFFFF;
+}

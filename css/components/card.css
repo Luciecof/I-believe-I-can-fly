@@ -1,0 +1,7 @@
+.card1{
+	image : url("vietnam");
+	width : 100px;
+	height: 100px ;
+	object-fit: cover;
+	width: 100%;
+}

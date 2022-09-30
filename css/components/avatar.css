@@ -1,0 +1,8 @@
+.avatar{
+	image : url("female-user.jpg");
+	height:100px;
+	width:100px;
+	border-radius:50%;
+	vertical-align: middle;
+	object-fit: cover;
+}
